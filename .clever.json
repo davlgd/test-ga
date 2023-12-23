@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "app_id": "app_627befb9-3404-4506-90eb-a1cf325051c9",
+      "org_id": "user_2e58efd9-f849-4d14-93cf-e0110a22630c",
+      "deploy_url": "https://push-n3-par-clevercloud-customers.services.clever-cloud.com/app_627befb9-3404-4506-90eb-a1cf325051c9.git",
+      "name": "astropaperga",
+      "alias": "astropaperga"
+    }
+  ]
+}
